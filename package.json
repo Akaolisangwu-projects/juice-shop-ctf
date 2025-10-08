@@ -78,7 +78,7 @@
     "bcryptjs": "^2.4.3",
     "colors": "1.4.0",
     "dateformat": "^4.6.3",
-    "inquirer": "^8.2.6",
+    "inquirer": "^8.2.7",
     "joi": "^17.13.3",
     "js-yaml": "^4.1.0",
     "jssha": "^3.3.1",
